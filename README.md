@@ -1,2 +1,2 @@
-# flythewall
-none
+# 自用
+规则
