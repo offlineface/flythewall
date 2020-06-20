@@ -1,5 +1,5 @@
-#from https://gist.github.com,PROXY/TTTPOB/ce93fb3b04ba2f21880b09427442d831
-#https://docs.microsoft.com,PROXY/en-us/office365/enterprise/urls-and-ip-address-ranges
+#from https://gist.github.com/TTTPOB/ce93fb3b04ba2f21880b09427442d831
+#https://docs.microsoft.com/en-us/office365/enterprise/urls-and-ip-address-ranges
 
 DOMAIN-SUFFIX,aadrm.com,PROXY
 DOMAIN-SUFFIX,acompli.com,PROXY
