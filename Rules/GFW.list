@@ -6113,7 +6113,7 @@ DOMAIN-SUFFIX,skydrive.wns.windows.com,PROXY
 DOMAIN-SUFFIX,spoprod-a.akamaihd.net,PROXY
 DOMAIN-SUFFIX,storage.live.com,PROXY
 DOMAIN-SUFFIX,storage.msn.com,PROXY
-#DOMAIN-SUFFIX,aria.microsoft.com,PROXY
+DOMAIN-SUFFIX,aria.microsoft.com,PROXY
 
 # Porn,PROXY
 DOMAIN-KEYWORD,porn,PROXY
