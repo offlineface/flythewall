@@ -23,7 +23,7 @@ dns:
 proxy-providers:
   Cnix:
     type: http
-    url: https://bayoeorescentpossessicoanseparateuneforescenphocommitte.adoptangelaboradvacotionclwonthorughconfrmcompimentdeseertaltar.org/link/OjGN6nkIqzcozBTJ?clash=1
+    url: https://example.com
     interval: 600
     path: ./Cnix.yaml
     health-check:
