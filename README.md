@@ -1,2 +1,4 @@
-# 自用
-规则
+# Rules for game player/entertainment services
+
+Common rulesets for clash and quantumultX.
+
